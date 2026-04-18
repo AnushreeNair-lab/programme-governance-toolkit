@@ -52,14 +52,28 @@ programme-governance-toolkit/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### How Access Works
 
-```bash
-git clone https://github.com/your-username/programme-governance-toolkit.git
-cd programme-governance-toolkit
-```
+This toolkit is publicly visible on GitHub so you can preview the structure, documentation, and frameworks. The **working template files** (Excel, checklists, frameworks) are hosted on Google Drive as **view-only** to ensure proper attribution.
 
-### 2. Adapt to Your Programme
+| What you can do here on GitHub | What requires a request |
+|---|---|
+| ✅ Browse all documentation | 📁 Download working Excel files |
+| ✅ Read all frameworks & checklists | 📁 Get editable template copies |
+| ✅ Preview the full toolkit structure | 📁 Access the Google Drive folder |
+
+### 📬 How to Get the Working Templates
+
+1. Connect with **Anushree Nair** on [LinkedIn](https://www.linkedin.com/feed/)
+2. Send a message with:
+   - Your name and role
+   - Which templates you need
+   - How you plan to use them
+3. Access to the Google Drive folder will be granted directly
+
+> This ensures proper attribution and lets me know how the toolkit is being used in the real world. I respond to all requests!
+
+### Once You Have Access — Adapt to Your Programme
 
 Each artefact includes placeholder fields marked with `[BRACKETS]` — replace these with your programme-specific details:
 
@@ -68,7 +82,7 @@ Each artefact includes placeholder fields marked with `[BRACKETS]` — replace t
 - `[OWNER]` — Named individual or role
 - `[TEAM]` — Your team or workstream name
 
-### 3. Choose Your Starting Point
+### Choose Your Starting Point
 
 | If you're... | Start with... |
 |---|---|
@@ -106,16 +120,40 @@ Please keep templates generic enough to be reusable across programmes — avoid 
 
 ---
 
-## 📄 Licence
+## 📄 Licence & Usage
 
-This toolkit is released under the [MIT Licence](./LICENCE.md). You are free to use, adapt, and distribute these artefacts in your own programmes — commercial or otherwise.
+This toolkit is shared freely for personal and professional use. You are welcome to use and adapt these artefacts in your own programmes.
+
+**However, please note:**
+- ✅ You may use and adapt these templates freely
+- ✅ You may share them with colleagues and teams
+- ❌ You may not republish or redistribute them as your own work
+- 📌 Credit must be given to **Anushree Nair** as the original author
+- 💬 If you use this toolkit, please reach out on [LinkedIn](https://www.linkedin.com/feed/) — it's always great to hear how it's being used!
 
 ---
 
 ## 👤 Author
 
-Built and maintained by a Programme Manager with experience across AI, technology, and business transformation programmes.
+**Anushree Nair**
+Programme Manager | AI & Technology Delivery
+
+🔗 [Connect on LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
-*Last updated: 2025 | Contributions welcome*
+## 🙏 Attribution Notice
+
+These templates represent original work developed from real programme delivery experience. They are shared freely to support the PM community.
+
+**If you use, adapt, or share any artefact from this toolkit:**
+- Please credit **Anushree Nair** as the original author
+- A message on [LinkedIn](https://www.linkedin.com/feed/) to let me know how you're using it would be greatly appreciated
+- Do not republish or redistribute these templates as your own work
+
+> *"I'd love to know if this toolkit is helping your programme — feel free to reach out!"*
+> — Anushree Nair
+
+---
+
+*Last updated: 2025 | Made with 💙 for the PM community*
