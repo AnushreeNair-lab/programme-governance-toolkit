@@ -8,7 +8,7 @@
 
 This toolkit provides ready-to-use governance artefacts designed for **medium-sized programmes** (3–5 teams, 10–50 people) running in a **hybrid Agile/Waterfall** environment. Whether you're managing an AI transformation, a technology platform programme, or a business change initiative, these templates give you a consistent, professional foundation from day one.
 
-Each artefact is production-ready — simply clone the repo, adapt to your programme context, and go.
+Each artefact is production-ready — simply download, adapt to your programme context, and go.
 
 ---
 
@@ -17,23 +17,20 @@ Each artefact is production-ready — simply clone the repo, adapt to your progr
 ```
 programme-governance-toolkit/
 │
-├── README.md                          ← You are here
+├── README.md                               ← You are here
 │
 ├── raid/
-│   └── RAID-Log.xlsx                  ← Risks, Assumptions, Issues, Dependencies tracker
+│   └── RAID-Log.xlsx                       ← Risks, Assumptions, Issues, Dependencies tracker
 │
 ├── reporting/
-│   └── Sprint-Reporting-Dashboard.xlsx ← Sprint metrics and programme status dashboard
+│   └── Sprint-Reporting-Dashboard.xlsx     ← Sprint metrics and programme status dashboard
 │
 ├── frameworks/
-│   ├── Risk-Escalation-Framework.md   ← Risk tiers, escalation paths, decision matrix
-│   └── AI-Programme-Delivery-Checklist.md ← AI-specific governance gates by delivery phase
+│   ├── Risk-Escalation-Framework.md        ← Risk tiers, escalation paths, decision matrix
+│   └── AI-Programme-Delivery-Checklist.md  ← AI-specific governance gates by delivery phase
 │
-├── people/
-│   └── Stakeholder-RACI-Matrix.md     ← RACI template with roles and guidance
-│
-└── docs/
-    └── how-to-use.md                  ← Detailed usage guide for each artefact
+└── people/
+    └── Stakeholder-RACI-Matrix.md          ← RACI template with roles and guidance
 ```
 
 ---
@@ -52,31 +49,11 @@ programme-governance-toolkit/
 
 ## 🚀 Getting Started
 
-### How Access Works
+### Using the Templates
 
-This toolkit is publicly visible on GitHub so you can preview the structure, documentation, and frameworks. The **working template files** (Excel, checklists, frameworks) are hosted on Google Drive as **view-only** to ensure proper attribution.
+All templates and frameworks are freely available directly in this repository. Download any file, adapt the `[BRACKET]` placeholders to your programme, and start using it straight away.
 
-| What you can do here on GitHub | What requires a request |
-|---|---|
-| ✅ Browse all documentation | 📁 Download working Excel files |
-| ✅ Read all frameworks & checklists | 📁 Get editable template copies |
-| ✅ Preview the full toolkit structure | 📁 Access the Google Drive folder |
-
-### 📬 How to Get the Working Templates
-
-1. Connect with **Anushree Nair** on [LinkedIn](https://www.linkedin.com/feed/)
-2. Send a message with:
-   - Your name and role
-   - Which templates you need
-   - How you plan to use them
-3. Access to the Google Drive folder will be granted directly
-
-> This ensures proper attribution and lets me know how the toolkit is being used in the real world. I respond to all requests!
-
-### Once You Have Access — Adapt to Your Programme
-
-Each artefact includes placeholder fields marked with `[BRACKETS]` — replace these with your programme-specific details:
-
+**Common placeholders across all artefacts:**
 - `[PROGRAMME NAME]` — Your programme name
 - `[DATE]` — Relevant dates
 - `[OWNER]` — Named individual or role
@@ -107,24 +84,11 @@ These templates are built around four core principles:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, improvements, and issue reports are welcome.
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-improvement`
-3. Commit your changes: `git commit -m 'Add: improvement description'`
-4. Push and open a Pull Request
-
-Please keep templates generic enough to be reusable across programmes — avoid embedding organisation-specific content.
-
----
-
 ## 📄 Licence & Usage
 
 This toolkit is shared freely for personal and professional use. You are welcome to use and adapt these artefacts in your own programmes.
 
-**However, please note:**
+**Please note:**
 - ✅ You may use and adapt these templates freely
 - ✅ You may share them with colleagues and teams
 - ❌ You may not republish or redistribute them as your own work
